@@ -3,6 +3,10 @@ body {
 	font-size: 90px;
 	font-weight: 300;
   font-family: 'Bangers', cursive;
+    color: black;
+   -webkit-text-fill-color: cyan; /* Will override color (regardless of order) */
+   -webkit-text-stroke-width: 3px;
+   -webkit-text-stroke-color: black;
 }
 .gradient {
   background: cyan;
