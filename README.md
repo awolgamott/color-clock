@@ -1,16 +1,8 @@
 ### Color Clock
 
-Recreation of this static page: 
-
-![](./static-clock.gif)
-
-* That is, format a Date() object and put it on the page using this layout.
-* Add hover functionality to show the hex color of the gradient instead of the time.
-
-![](./clock.gif)
-
 * Make the clock "tick" and change the gradient in tandem.
 * Add the horizontal line that shows the progress of each minute. 
+* Add hover functionality to show the hex color of the gradient instead of the time.
 * Demonstrate understanding of functions, loops/array, variadic behavior, `setTimeout()` and `setInterval()`
 * Be able to breakdown a simple process of mathematical steps into a series of statements in JS
 * Demonstrate Functional Programming methods
